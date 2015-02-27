@@ -1,3 +1,4 @@
+import de.bezier.guido.*;
 public static int NUM_ROWS=16;
 public static int NUM_COLS=16;
 public static int NUM_BOMBS=40;
